@@ -1,2 +1,2 @@
 # socialbooksapi-client
-Consumindo nossa API (Java e JavaScript)
+Consumindo nossa API utilizando Java e JavaScript
